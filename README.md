@@ -2,6 +2,9 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 ![GitHub last commit](https://img.shields.io/github/last-commit/devancakra/WEB-PENDAFTARAN-CODEIGNITER4-SEDERHANA)
 ![CI4](https://img.shields.io/badge/-Codeigniter4-black?style=flat&logo=Codeigniter)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-purple.svg?&logo=bootstrap&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-grey.svg?&logo=PHP&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-blue.svg?style=flat&logo=mysql&logoColor=white)
 
 # WEB-PENDAFTARAN-CODEIGNITER4-SEDERHANA
 <b>Web Pendaftaran Seminar Nasional Roboco 2021 - Web CI4 Sederhana</b>
@@ -10,7 +13,7 @@
 <br>
 
 ## Tools / Framework / Other
-| Bagian | Tools yang digunakan |
+| Bagian | Keterangan |
 | --- | --- |
 | Fitur | Login (Myth/Auth), Create, Read, Update, Delete, Validation, Print, Export excel |
 | Framework | Bootstrap 4, CodeIgniter 4 |
@@ -18,20 +21,55 @@
 
 <br>
 
+## Environment
+1. Download XAMPP
+```bash
+https://www.apachefriends.org/index.html
+```
+2. Download Visual Studio Code 
+```bash
+https://code.visualstudio.com/
+```
+3. Download Composer
+```bash
+https://getcomposer.org/
+```
+4. Download Git
+```bash
+http://git-scm.com/
+```
+5. Buat database dengan nama ci4 di local, ketikkan pada browser :
+```bash
+localhost/phpmyadmin/
+```
+6. Import database dengan nama ci4.sql
+
+<br>
+
+## Install Codeigniter Melalui Composer
+Install Codeigniter 4 dengan nama ci4app melalui gitbash arahkan pada htdocs
+```bash
+composer create-project codeigniter4/appstarter ci4app
+```
+
+<br>
+
 ## Cara Menjalankan Web Secara Local
-<p>1. Download repository ini</p>
-<p>2. Download XAMPP (https://www.apachefriends.org/index.html)</p>
-<p>3. Download Visual Studio Code (https://code.visualstudio.com/)</p>
-<p>4. Download Composer (https://getcomposer.org/)</p>
-<p>5. Download Git (http://git-scm.com/)</p>
-<p>6. Install Codeigniter 4 melalui gitbash arahkan pada htdocs (https://codeigniter.com/user_guide/installation/installing_composer.html)</p>
-<p>7. Extract file yang di download tadi ke XAMPP -> htdocs (replace)</p>
-<p>8. Masuk kedalam folder ci4app -> Klik kanan pilih gitbash lalu ketikkan -> $php spark serve</p>
-<p>9. Buka XAMPP lalu start apache dan mysql</p>
-<p>10. Kemudian buat database melalui browser di localhost/phpmyadmin/ dengan nama ci4 -> import database ci4.sql</p>
-<p>11. Buka browser anda (Tab baru) lalu ketikkan -> localhost:8080 (atau sesuaikan dengan yang ada pada gitbash)</p>
-<p>12. email admin : pentalogy.wasser@gmail.com atau username : Super Admin, password admin : semnas2021</p>
-<p>13. Selesai, selamat menikmati</p>
+1. Download repository ini
+2. Lalu buka file XAMP (php.ini) -> hapus semicolon (;) didepan extension=intl ->save
+3. Extract file yang di download tadi -> Copy & Paste isi folder -> XAMP (htdocs) -> masuk kedalam folder ci4app -> Replace
+4. Buka browser anda (Tab baru) lalu ketikkan -> localhost:8080 atau sesuaikan yang ada pada gitbash
+5. email admin : pentalogy.wasser@gmail.com atau username : Super Admin, password admin : semnas2021
+6. Selesai, selamat menikmati
+
+<br>
+
+## Run Server
+1. Pastikan masih berada di dalam folder ci4app -> Klik kanan pilih gitbash lalu ketikkan :
+```bash
+$php spark serve
+```
+2. Buka XAMPP lalu start apache dan mysql
 
 <br>
 
