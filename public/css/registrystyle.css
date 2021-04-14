@@ -1,0 +1,99 @@
+.registry {
+   margin: 0 auto;
+   margin-top: 2%;
+   top: 50%;
+   left: 50%;
+   background: -webkit-linear-gradient(right, #0b348b, #0b5c8b, #0b7c8b);
+   opacity: 0.8;
+   padding: 40px;
+   max-width: 700px;
+   width: 100%;
+   box-shadow: 0px 0px 25px 10px black;
+   border-radius: 15px;
+}
+
+.avatar {
+   margin: 0 auto;
+   margin-top: -70px;
+   left: 50%;
+   font-size: 30px ;
+   background: #17a2b8;
+   width: 80px;
+   height: 80px;
+   line-height: 50px;
+   text-align: center;
+   border-radius: 50%;
+}
+
+.ico{
+   margin-top: 35px;
+}
+
+.box-registry {
+   display: flex;
+   justify-content:space-between;
+   margin: 10px;
+   border-bottom: 2px solid white;
+   padding: 4px 0;
+}
+
+.box-registry i {
+   font-size: 18px;
+   color: white;
+   padding: 5px 0;
+}
+
+.box-registry input {
+   width: 92%;
+   padding: 5px 0;
+   background: none;
+   border: none;
+   outline: none;
+   color: white;
+   font-size: 15px;
+}
+
+ .box-registry input::placeholder {
+   color: white;
+}
+
+ .box-registry input:hover{
+   background: rgba(10, 10, 10,s 0.5);
+}
+
+.button-class{
+	margin: 0 auto;
+}
+
+.button{
+   margin-top: 15px;
+   margin-left: 8px;
+   margin-right: 5px;
+   background: none;
+   border: 1px solid white;
+   padding: 7px;
+   color: white;
+   font-size: 15px;
+   letter-spacing: 3px;
+   cursor: pointer;
+   border-radius: 15px;
+}
+
+.button:hover{
+   background: #17a2b8;
+   border: 1px aqua solid;
+   border-style: dotted;
+}
+
+.pencil{
+	position: relative;
+	top: -2px;
+	left: 10px;
+	width: 100%;
+}
+
+.book{
+	position: relative;
+	top: -18px;
+	width: 100%;
+}
