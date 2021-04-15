@@ -56,11 +56,12 @@ composer create-project codeigniter4/appstarter ci4app
 
 ## Cara Menjalankan Web Secara Local
 1. Download repository ini
-2. Lalu buka file XAMP (php.ini) -> hapus semicolon (;) didepan extension=intl ->save
-3. Extract file yang di download tadi -> Copy & Paste isi folder -> XAMP (htdocs) -> masuk kedalam folder ci4app -> Replace
-4. Buka browser anda (Tab baru) lalu ketikkan -> localhost:8080 atau sesuaikan yang ada pada gitbash
-5. email admin : pentalogy.wasser@gmail.com atau username : Super Admin, password admin : semnas2021
-6. Selesai, selamat menikmati
+2. Environment pastikan semua telah dilakukan -> Install Codeigniter 4 melalui gitbash
+3. Lalu buka file XAMP (php.ini) -> hapus semicolon (;) didepan extension=intl ->save
+4. Extract file yang di download tadi -> Copy & Paste isi folder -> XAMP (htdocs) -> masuk kedalam folder ci4app -> Replace
+5. Run server
+6. email admin : pentalogy.wasser@gmail.com atau username : Super Admin, password admin : semnas2021
+7. Selesai, selamat menikmati
 
 <br>
 
@@ -70,6 +71,7 @@ composer create-project codeigniter4/appstarter ci4app
 $php spark serve
 ```
 2. Buka XAMPP lalu start apache dan mysql
+3. Buka browser anda (Tab baru) lalu ketikkan -> localhost:8080 atau sesuaikan yang ada pada gitbash
 
 <br>
 
