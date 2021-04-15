@@ -54,6 +54,16 @@ composer create-project codeigniter4/appstarter ci4app
 
 <br>
 
+## Run Server
+1. Pastikan masih berada di dalam folder ci4app -> Klik kanan pilih gitbash lalu ketikkan :
+```bash
+$php spark serve
+```
+2. Buka XAMPP lalu start apache dan mysql
+3. Buka browser anda (Tab baru) lalu ketikkan -> localhost:8080 atau sesuaikan yang ada pada gitbash
+
+<br>
+
 ## Cara Menjalankan Web Secara Local
 1. Download repository ini
 2. Environment pastikan semua telah dilakukan -> Install Codeigniter 4 melalui gitbash
@@ -62,16 +72,6 @@ composer create-project codeigniter4/appstarter ci4app
 5. Run server
 6. email admin : pentalogy.wasser@gmail.com atau username : Super Admin, password admin : semnas2021
 7. Selesai, selamat menikmati
-
-<br>
-
-## Run Server
-1. Pastikan masih berada di dalam folder ci4app -> Klik kanan pilih gitbash lalu ketikkan :
-```bash
-$php spark serve
-```
-2. Buka XAMPP lalu start apache dan mysql
-3. Buka browser anda (Tab baru) lalu ketikkan -> localhost:8080 atau sesuaikan yang ada pada gitbash
 
 <br>
 
