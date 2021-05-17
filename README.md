@@ -1,12 +1,12 @@
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?style=flat)](https://github.com/ellerbrock/open-source-badges/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
-![GitHub last commit](https://img.shields.io/github/last-commit/devancakra/WEB-PENDAFTARAN-CODEIGNITER4-SEDERHANA)
+![GitHub last commit](https://img.shields.io/github/last-commit/devancakra/Web-Pendaftaran-Codeigniter4-Sederhana)
 ![CI4](https://img.shields.io/badge/-Codeigniter4-black?style=flat&logo=Codeigniter)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-purple.svg?&logo=bootstrap&logoColor=white)
 ![PHP](https://img.shields.io/badge/-PHP-grey.svg?&logo=PHP&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-blue.svg?style=flat&logo=mysql&logoColor=white)
 
-# WEB-PENDAFTARAN-CODEIGNITER4-SEDERHANA
+# Web-Pendaftaran-Codeigniter4-Sederhana
 <b>Web Pendaftaran Seminar Nasional Roboco 2021 - Web CI4 Sederhana</b>
 <p>Dibuat untuk pemenuhan tugas mata kuliah Pemrograman Framework - oleh Devan Cakra M.W</p>
 
