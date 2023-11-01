@@ -17,7 +17,7 @@ This website was created to fulfill the assignment of the Framework Programming 
 | --- | --- |
 | Features | Login, Create, Read, Update, Delete, Validation, Print, & Export |
 | Framework | Bootstrap 4, CodeIgniter 4 |
-| Tools | Visual Studio Code, XAMPP (PHP Version 7,4) |
+| Tools | Visual Studio Code, XAMPP (PHP Version 7.4) |
 
 <br>
 
