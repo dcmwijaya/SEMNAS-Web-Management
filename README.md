@@ -6,7 +6,7 @@
 ![PHP](https://img.shields.io/badge/-PHP-grey.svg?&logo=PHP&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-blue.svg?style=flat&logo=mysql&logoColor=white)
 
-# SEMNAS-Web-Registration
+# SEMNAS-Web-Management
 <strong>Final Project of Framework Course: SEMNAS Case Study</strong><br>
 This website was created to fulfill the assignment of the Framework Programming course. The data in it is not really there (fictitious).
 
