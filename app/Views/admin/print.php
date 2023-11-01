@@ -36,6 +36,9 @@
 
     <script type="text/javascript">
         window.print();
+        onafterprint = function () {
+            window.location.href = "../admin";
+        }
     </script>
 
 </body>
