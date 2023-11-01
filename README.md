@@ -62,7 +62,8 @@ localhost/phpmyadmin/
 
 ## Running
 1.Download this repository.<br>
-2.Open the "SEMNAS" directory, then open GitBash inside that directory.
+2.Rename the directory "SEMNAS-Web-Management" to SEMNAS.<br>
+3.Open the "SEMNAS" directory, then open GitBash inside that directory.
 <ul>
 <li>First, check whether there is a problem or not, if there is still an error, just adjust it according to the situation.</li>
 <li>Secondly, this step is mandatory, so please copy the following command:</li><br>
@@ -71,8 +72,8 @@ localhost/phpmyadmin/
 php spark serve
 ````
 </ul>
-3. Open your browser (New tab), then type -> localhost:8080 or customize the one on your GitBash.<br>
-4. Please login and access the features, enjoy [Done].
+4. Open your browser (New tab), then type -> localhost:8080 or customize the one on your GitBash.<br>
+5. Please login and access the features, enjoy [Done].
 
 <br><br>
 
