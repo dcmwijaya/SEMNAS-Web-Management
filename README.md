@@ -6,18 +6,18 @@
 ![PHP](https://img.shields.io/badge/-PHP-grey.svg?&logo=PHP&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-blue.svg?style=flat&logo=mysql&logoColor=white)
 
-# Web-Pendaftaran-Codeigniter4-Sederhana
-<b>Web Pendaftaran Seminar Nasional Roboco 2021 - Web CI4 Sederhana</b>
-<p>Dibuat untuk pemenuhan tugas mata kuliah Pemrograman Framework - oleh Devan Cakra M.W</p>
+# SEMNAS-Web-Registration
+<strong>Final Project of Framework Course: SEMNAS Case Study</strong><br>
+This website was created to fulfill the assignment of the Framework Programming course. The data in it is not really there (fictitious).
 
 <br>
 
-## Tools / Framework / Other
-| Bagian | Keterangan |
+## Features / Framework / Tools
+| Part | Description |
 | --- | --- |
-| Fitur | Login (Myth/Auth), Create, Read, Update, Delete, Validation, Print, Export excel |
+| Features | Login, Create, Read, Update, Delete, Validation, Print, & Export |
 | Framework | Bootstrap 4, CodeIgniter 4 |
-| Text Editor | Visual Studio Code |
+| Tools | Visual Studio Code, XAMPP (PHP Version 7,4) |
 
 <br>
 
