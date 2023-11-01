@@ -19,7 +19,7 @@ This website was created to fulfill the assignment of the Framework Programming 
 | Framework | Bootstrap 4, CodeIgniter 4 |
 | Tools | Visual Studio Code, XAMPP (PHP Version 7.4) |
 
-<br>
+<br><br>
 
 ## Download & Install
 1.XAMPP with PHP version 7.4 :
@@ -39,7 +39,7 @@ https://getcomposer.org/
 http://git-scm.com/
 ```
 
-<br>
+<br><br>
 
 ## Database
 1.Open XAMPP, then start the Apache & MySQL section. This aims to be able to support the website optimally.<br>
@@ -51,14 +51,14 @@ localhost/phpmyadmin/
 4.Open the "ci4_semnas" database and Import the database (semnas_db.sql) in the SEMNAS/database directory.<br>
 5.Then open the XAMP file (php.ini) -> remove semicolon (;) in front of extension=intl -> save.
 
-<br>
+<br><br>
 
 ## Default Account
 | Role | Email | Username | Password |
 | --- | --- | --- | --- |
 | Super Admin | pentalogy.wasser@gmail.com | Super Admin | semnas2021 |
 
-<br>
+<br><br>
 
 ## Running
 1.Download this repository.<br>
