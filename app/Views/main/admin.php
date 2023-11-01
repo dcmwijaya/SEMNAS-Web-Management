@@ -111,6 +111,7 @@
                 </table>
             </div>
 
+            <?php foreach ($semnas as $dt) : ?>
             <!-- ADD -->
             <div class="modal fade" id="create" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
                 <div class="modal-dialog" role="document">
@@ -266,6 +267,7 @@
                     </div>
                 </div>
             </div>
+            <?php endforeach; ?>
 
         </div>
     </div>
