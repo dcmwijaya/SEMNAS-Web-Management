@@ -1,6 +1,6 @@
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?style=flat)](https://github.com/ellerbrock/open-source-badges/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
-![GitHub last commit](https://img.shields.io/github/last-commit/devancakra/SEMNAS-Web-Registration)
+![GitHub last commit](https://img.shields.io/github/last-commit/devancakra/SEMNAS-Web-Management)
 ![CI4](https://img.shields.io/badge/-Codeigniter4-darkblue?style=flat&logo=Codeigniter)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-purple.svg?&logo=bootstrap&logoColor=white)
 ![PHP](https://img.shields.io/badge/-PHP-grey.svg?&logo=PHP&logoColor=white)
@@ -21,59 +21,60 @@ This website was created to fulfill the assignment of the Framework Programming 
 
 <br>
 
-## Environment
-1. Download XAMPP
+## Download & Install
+1.XAMPP with PHP version 7.4 :
 ```bash
-https://www.apachefriends.org/index.html
+https://sourceforge.net/projects/xampp/files/XAMPP%20Windows/7.4.30/xampp-windows-x64-7.4.30-1-VC15-installer.exe/download
 ```
-2. Download Visual Studio Code 
+2.Visual Studio Code :
 ```bash
-https://code.visualstudio.com/
+https://code.visualstudio.com/docs/?dv=win
 ```
-3. Download Composer
+3.Composer :
 ```bash
 https://getcomposer.org/
 ```
-4. Download Git
+4.Git :
 ```bash
 http://git-scm.com/
 ```
-5. Buat database dengan nama ci4 di local, ketikkan pada browser :
+
+<br>
+
+## Database
+1.Open XAMPP, then start the Apache & MySQL section. This aims to be able to support the website optimally.<br>
+2.Access the browser first in order to open the database admin panel, please copy the following link:
 ```bash
 localhost/phpmyadmin/
 ```
-6. Import database dengan nama ci4.sql
+3.Create a database called "ci4_semnas" on local.<br>
+4.Open the "ci4_semnas" database and Import the database (semnas_db.sql) in the SEMNAS/database directory.<br>
+5.Then open the XAMP file (php.ini) -> remove semicolon (;) in front of extension=intl -> save.
 
 <br>
 
-## Install Codeigniter Melalui Composer
-Install Codeigniter 4 dengan nama ci4app melalui gitbash arahkan pada htdocs
-```bash
-composer create-project codeigniter4/appstarter ci4app
-```
+## Default Account
+| Role | Email | Username | Password |
+| --- | --- | --- | --- |
+| Super Admin | pentalogy.wasser@gmail.com | Super Admin | semnas2021 |
 
 <br>
 
-## Run Server
-1. Pastikan masih berada di dalam folder ci4app -> Klik kanan pilih gitbash lalu ketikkan :
-```bash
-$php spark serve
-```
-2. Buka XAMPP lalu start apache dan mysql
-3. Buka browser anda (Tab baru) lalu ketikkan -> localhost:8080 atau sesuaikan yang ada pada gitbash
+## Running
+1.Download this repository.<br>
+2.Open the "SEMNAS" directory, then open GitBash inside that directory.
+<ul>
+<li>First, check whether there is a problem or not, if there is still an error, just adjust it according to the situation.</li>
+<li>Secondly, this step is mandatory, so please copy the following command:</li><br>
+    
+````bash
+php spark serve
+````
+</ul>
+3. Open your browser (New tab), then type -> localhost:8080 or customize the one on your GitBash.<br>
+4. Please login and access the features, enjoy [Done].
 
-<br>
-
-## Cara Menjalankan Web Secara Local
-1. Download repository ini
-2. Environment pastikan semua telah dilakukan -> Install Codeigniter 4 melalui gitbash
-3. Lalu buka file XAMP (php.ini) -> hapus semicolon (;) didepan extension=intl ->save
-4. Extract file yang di download tadi -> Copy & Paste isi folder -> XAMP (htdocs) -> masuk kedalam folder ci4app -> Replace
-5. Run server
-6. email admin : pentalogy.wasser@gmail.com atau username : Super Admin, password admin : semnas2021
-7. Selesai, selamat menikmati
-
-<br>
+<br><br>
 
 ## Dokumentasi
 <div class="dokumentasi">
@@ -110,3 +111,14 @@ $php spark serve
   <h5>16. Fitur Validasi Hapus<h5>
   <img src="https://user-images.githubusercontent.com/54527592/109916161-b458b700-7ce5-11eb-8d13-a890ad4b0e55.png"><br>
 </div>
+
+<br><br>
+
+## LICENSE
+MIT License - Copyright (c) 2021 - Devan Cakra Mudra Wijaya
+
+Permission is hereby granted without charge to any person obtaining a copy of this software and the software-related documentation files to deal in them without restriction, including without limitation the right to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons receiving the Software to be furnished therewith on the following terms:
+
+The above copyright notice and this permission notice must accompany all copies or substantial portions of the Software.
+
+IN ANY EVENT, THE AUTHOR OR COPYRIGHT HOLDER HEREIN RETAINS FULL OWNERSHIP RIGHTS. THE SOFTWARE IS PROVIDED AS IS, WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESS OR IMPLIED, THEREFORE IF ANY DAMAGE, LOSS, OR OTHERWISE ARISES FROM THE USE OR OTHER DEALINGS IN THE SOFTWARE, THE AUTHOR OR COPYRIGHT HOLDER SHALL NOT BE LIABLE, AS THE USE OF THE SOFTWARE IS NOT COMPELLED AT ALL, SO THE RISK IS YOUR OWN.
