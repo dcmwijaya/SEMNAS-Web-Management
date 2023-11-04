@@ -22,34 +22,31 @@ This website was created to fulfill the assignment of the Framework Programming 
 <br><br>
 
 ## Download & Install
-1.XAMPP with PHP version 7.4 :
-```bash
-https://sourceforge.net/projects/xampp/files/XAMPP%20Windows/7.4.30/xampp-windows-x64-7.4.30-1-VC15-installer.exe/download
-```
-2.Visual Studio Code :
-```bash
-https://code.visualstudio.com/docs/?dv=win
-```
-3.Composer :
-```bash
-https://getcomposer.org/
-```
-4.Git :
-```bash
-http://git-scm.com/
-```
+1. XAMPP with PHP version 7.4 :<br><br>
+   ```bash
+   https://sourceforge.net/projects/xampp/files/XAMPP%20Windows/7.4.30/xampp-windows-x64-7.4.30-1-VC15-installer.exe/download
+   ```
+2. Visual Studio Code :<br><br>
+   ```bash
+   https://code.visualstudio.com/docs/?dv=win
+   ```
+3. Composer :<br><br>
+   ```bash
+   https://getcomposer.org/
+   ```
+4. Git :<br><br>
+   ```bash
+   http://git-scm.com/
+   ```
 
 <br><br>
 
 ## Database
-1.Open XAMPP, then start the Apache & MySQL section. This aims to be able to support the website optimally.<br>
-2.Access the browser first in order to open the database admin panel, please copy the following link:
-```bash
-localhost/phpmyadmin/
-```
-3.Create a database called "ci4_semnas" on local.<br>
-4.Open the "ci4_semnas" database and Import the database (semnas_db.sql) in the SEMNAS/database directory.<br>
-5.Then open the XAMP file (php.ini) -> remove semicolon (;) in front of extension=intl -> save.
+1. Open XAMPP, then start the Apache & MySQL section. This aims to be able to support the website optimally.<br>
+2. Access the browser first in order to open the database admin panel, please copy the following link: ``` localhost/phpmyadmin/ ```.
+3. Create a database called ``` ci4_semnas ``` on local.<br>
+4. Open the ``` ci4_semnas ``` database and Import the ``` semnas_db.sql ``` in the ``` SEMNAS/database directory ```.<br>
+5. Then open the XAMP file: ``` php.ini ``` -> remove ``` semicolon (;) ``` in front of ``` extension=intl ``` -> save.
 
 <br><br>
 
@@ -61,18 +58,18 @@ localhost/phpmyadmin/
 <br><br>
 
 ## Running
-1.Download this repository.<br>
-2.Rename the directory "SEMNAS-Web-Management" to SEMNAS.<br>
-3.Open the "SEMNAS" directory, then open GitBash inside that directory.
-<ul>
-<li>First, check whether there is a problem or not, if there is still an error, just adjust it according to the situation.</li>
-<li>Secondly, this step is mandatory, so please copy the following command:</li><br>
-    
-````bash
-php spark serve
-````
-</ul>
-4. Open your browser (New tab), then type -> localhost:8080 or customize the one on your GitBash.<br>
+1. Download this repository.<br>
+2. Rename the directory ``` SEMNAS-Web-Management ``` to ``` SEMNAS ```.<br>
+3. Open the ``` SEMNAS ``` directory, then open GitBash inside that directory.
+   <ul>
+       <li>First, check whether there is a problem or not, if there is still an error, just adjust it according to the situation.</li>
+       <li>Secondly, this step is mandatory, so please copy the following command:<br><br></li>
+       
+   ````bash
+   php spark serve
+   ````
+   </ul>
+4. Open your browser (New tab), then type -> ``` localhost:8080 ``` or customize the one on your GitBash.<br>
 5. Please login and access the features, enjoy [Done].
 
 <br><br>
