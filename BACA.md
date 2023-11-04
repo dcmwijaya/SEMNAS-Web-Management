@@ -8,7 +8,7 @@
 
 # SEMNAS-Web-Management
 <strong>Tugas Akhir Mata Kuliah Framework: Studi Kasus SEMNAS</strong><br>
-Website ini dibuat untuk memenuhi tugas mata kuliah Pemrograman Framework. Data-data yang ada di dalamnya tidak benar adanya (fiktif).
+Website ini dibuat untuk memenuhi ``` tugas mata kuliah Pemrograman Framework ```. Data-data yang ada di dalamnya tidak benar adanya / ``` fiktif ```.
 
 <br>
 
@@ -19,48 +19,55 @@ Website ini dibuat untuk memenuhi tugas mata kuliah Pemrograman Framework. Data-
 | Kerangka Kerja | Bootstrap 4, CodeIgniter 4 |
 | Peralatan | Visual Studio Code, XAMPP (PHP Versi 7.4) |
 
-<br><br>
+<br>
 
 ## Unduh & Instal
 1. XAMPP dengan PHP versi 7.4 :<br><br>
+   
    ```bash
    https://sourceforge.net/projects/xampp/files/XAMPP%20Windows/7.4.30/xampp-windows-x64-7.4.30-1-VC15-installer.exe/download
    ```
-2. Visual Studio Code :<br><br>
+   
+2. Visual Studio Code :
+   
    ```bash
    https://code.visualstudio.com/docs/?dv=win
    ```
-3. Composer :<br><br>
+   
+3. Composer :
+
    ```bash
    https://getcomposer.org/
    ```
-4. Git :<br><br>
+   
+4. Git :
+
    ```bash
    http://git-scm.com/
    ```
 
-<br><br>
+<br>
 
 ## Basis data
-1. Buka XAMPP, lalu tekan tombol mulai di bagian Apache & MySQL. Hal ini bertujuan untuk dapat mendukung website secara optimal.<br>
-2. Akses peramban terlebih dahulu untuk membuka panel admin basis data, silakan salin tautan berikut: ``` localhost/phpmyadmin/ ```
+1. Buka ``` XAMPP ```, lalu tekan tombol mulai di bagian ``` Apache ``` & ``` MySQL ```. Hal ini bertujuan untuk dapat mendukung website secara optimal.<br>
+2. Akses peramban terlebih dahulu untuk membuka panel admin basis data, silakan salin tautan berikut: ``` localhost/phpmyadmin/ ```.
 3. Buat basis data bernama ``` ci4_semnas ``` di lokal.<br>
 4. Buka basis data ``` ci4_semnas ``` dan Impor ``` semnas_db.sql ``` di direktori ``` SEMNAS/database ```.<br>
 5. Kemudian buka berkas XAMP: ``` php.ini ``` -> hapus ``` titik koma (;) ``` di depan ``` extension=intl ``` -> simpan.
 
-<br><br>
+<br>
 
 ## Akun Bawaan
 | Peran | Surel | Nama Pengguna | Kata Sandi |
 | --- | --- | --- | --- |
 | Super Admin | pentalogy.wasser@gmail.com | Super Admin | semnas2021 |
 
-<br><br>
+<br>
 
 ## Menjalankan
 1. Unduh repositori ini.<br>
 2. Ubah nama direktori ``` SEMNAS-Web-Management ``` menjadi ``` SEMNAS ```.<br>
-3. Buka direktori "SEMNAS", lalu buka GitBash di dalam direktori tersebut.
+3. Buka direktori ``` SEMNAS ```, lalu buka ``` GitBash ``` di dalam direktori tersebut.
    <ul>
       <li>Pertama, periksa apakah ada masalah atau tidak, jika masih ada kesalahan, sesuaikan saja dengan situasinya.</li>
       <li>Kedua, langkah ini wajib dilakukan, jadi silakan salin perintah berikut ini:</li><br>
@@ -72,7 +79,7 @@ Website ini dibuat untuk memenuhi tugas mata kuliah Pemrograman Framework. Data-
 4. Buka peramban Anda (Tab baru), lalu ketik -> ``` localhost:8080 ``` atau sesuaikan dengan yang ada di GitBash Anda.<br>
 5. Silakan masuk dan akses fitur-fiturnya, selamat menikmati [Selesai].
 
-<br><br>
+<br>
 
 ## Sorotan
 <table>
@@ -144,7 +151,7 @@ Website ini dibuat untuk memenuhi tugas mata kuliah Pemrograman Framework. Data-
 </tr>
 </table>
 
-<br><br>
+<br>
 
 ## LISENSI 
 LISENSI MIT - Hak Cipta (c) 2021 - Devan Cakra Mudra Wijaya
