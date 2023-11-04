@@ -67,7 +67,7 @@ This website was created to fulfill the ``` assignment of the Framework Programm
 ## Running
 1. Download this repository.<br>
 2. Rename the directory ``` SEMNAS-Web-Management ``` to ``` SEMNAS ```.<br>
-3. Open the ``` SEMNAS ``` directory, then open GitBash inside that directory.
+3. Open the ``` SEMNAS ``` directory, then open ``` GitBash ``` inside that directory.
    <ul>
        <li>First, check whether there is a problem or not, if there is still an error, just adjust it according to the situation.</li>
        <li>Secondly, this step is mandatory, so please copy the following command:<br><br></li>
