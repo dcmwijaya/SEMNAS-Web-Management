@@ -8,7 +8,7 @@
 
 # SEMNAS-Web-Management
 <strong>Final Project of Framework Course: SEMNAS Case Study</strong><br>
-This website was created to fulfill the assignment of the Framework Programming course. The data in it is not really there (fictitious).
+This website was created to fulfill the ``` assignment of the Framework Programming course ```. The data in it is not really there / ``` fictitious ```.
 
 <br>
 
@@ -19,43 +19,50 @@ This website was created to fulfill the assignment of the Framework Programming 
 | Framework | Bootstrap 4, CodeIgniter 4 |
 | Tools | Visual Studio Code, XAMPP (PHP Version 7.4) |
 
-<br><br>
+<br>
 
 ## Download & Install
-1. XAMPP with PHP version 7.4 :<br><br>
+1. XAMPP with PHP version 7.4 :
+   
    ```bash
    https://sourceforge.net/projects/xampp/files/XAMPP%20Windows/7.4.30/xampp-windows-x64-7.4.30-1-VC15-installer.exe/download
    ```
-2. Visual Studio Code :<br><br>
+   
+2. Visual Studio Code :
+   
    ```bash
    https://code.visualstudio.com/docs/?dv=win
    ```
-3. Composer :<br><br>
+   
+3. Composer :
+
    ```bash
    https://getcomposer.org/
    ```
-4. Git :<br><br>
+   
+4. Git :
+
    ```bash
    http://git-scm.com/
    ```
 
-<br><br>
+<br>
 
 ## Database
-1. Open XAMPP, then start the Apache & MySQL section. This aims to be able to support the website optimally.<br>
+1. Open ``` XAMPP ```, then start the ``` Apache ``` & ``` MySQL ``` section. This aims to be able to support the website optimally.<br>
 2. Access the browser first in order to open the database admin panel, please copy the following link: ``` localhost/phpmyadmin/ ```.
 3. Create a database called ``` ci4_semnas ``` on local.<br>
 4. Open the ``` ci4_semnas ``` database and Import the ``` semnas_db.sql ``` in the ``` SEMNAS/database directory ```.<br>
 5. Then open the XAMP file: ``` php.ini ``` -> remove ``` semicolon (;) ``` in front of ``` extension=intl ``` -> save.
 
-<br><br>
+<br>
 
 ## Default Account
 | Role | Email | Username | Password |
 | --- | --- | --- | --- |
 | Super Admin | pentalogy.wasser@gmail.com | Super Admin | semnas2021 |
 
-<br><br>
+<br>
 
 ## Running
 1. Download this repository.<br>
@@ -72,7 +79,7 @@ This website was created to fulfill the assignment of the Framework Programming 
 4. Open your browser (New tab), then type -> ``` localhost:8080 ``` or customize the one on your GitBash.<br>
 5. Please login and access the features, enjoy [Done].
 
-<br><br>
+<br>
 
 ## Highlights
 <table>
@@ -144,7 +151,7 @@ This website was created to fulfill the assignment of the Framework Programming 
 </tr>
 </table>
 
-<br><br>
+<br>
 
 ## LICENSE
 MIT License - Copyright (c) 2021 - Devan Cakra Mudra Wijaya
