@@ -61,16 +61,16 @@ Website ini dibuat untuk memenuhi tugas mata kuliah Pemrograman Framework. Data-
 1. Unduh repositori ini.<br>
 2. Ubah nama direktori ``` SEMNAS-Web-Management ``` menjadi ``` SEMNAS ```.<br>
 3. Buka direktori "SEMNAS", lalu buka GitBash di dalam direktori tersebut.
-  <ul>
-    <li>Pertama, periksa apakah ada masalah atau tidak, jika masih ada kesalahan, sesuaikan saja dengan situasinya.</li>
-    <li>Kedua, langkah ini wajib dilakukan, jadi silakan salin perintah berikut ini:</li><br>
-    
-  ```bash 
-    php spark serve
-  ```
-  </ul>
-  4. Buka peramban Anda (Tab baru), lalu ketik -> ``` localhost:8080 ``` atau sesuaikan dengan yang ada di GitBash Anda.<br>
-  5. Silakan masuk dan akses fitur-fiturnya, selamat menikmati [Selesai].
+   <ul>
+      <li>Pertama, periksa apakah ada masalah atau tidak, jika masih ada kesalahan, sesuaikan saja dengan situasinya.</li>
+      <li>Kedua, langkah ini wajib dilakukan, jadi silakan salin perintah berikut ini:</li><br>
+   
+   ```bash 
+   php spark serve
+   ```
+   </ul>
+4. Buka peramban Anda (Tab baru), lalu ketik -> ``` localhost:8080 ``` atau sesuaikan dengan yang ada di GitBash Anda.<br>
+5. Silakan masuk dan akses fitur-fiturnya, selamat menikmati [Selesai].
 
 <br><br>
 
