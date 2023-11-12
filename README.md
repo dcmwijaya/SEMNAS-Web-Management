@@ -64,7 +64,7 @@ This website was created to fulfill the ``` assignment of the Framework Programm
 
 <br>
 
-## Running
+## Get Started
 1. Download this repository.<br>
 2. Rename the directory ``` SEMNAS-Web-Management ``` to ``` SEMNAS ```.<br>
 3. Open the ``` SEMNAS ``` directory, then open ``` GitBash ``` inside that directory.
@@ -150,6 +150,11 @@ This website was created to fulfill the ``` assignment of the Framework Programm
 <td><img src="https://user-images.githubusercontent.com/54527592/109916161-b458b700-7ce5-11eb-8d13-a890ad4b0e55.png" alt="delete-validation"></td>
 </tr>
 </table>
+
+<br>
+
+## Disclaimer
+This application has been created by including third-party sources. Third parties here are service providers, whose services are in the form of libraries, frameworks, and others. I thank you very much for the service. It has proven to be very helpful and implementable.
 
 <br>
 
