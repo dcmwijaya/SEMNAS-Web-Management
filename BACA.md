@@ -49,10 +49,14 @@ Website ini dibuat untuk memenuhi ``` tugas mata kuliah Pemrograman Framework ``
 <br>
 
 ## Basis data
-1. Buka ``` XAMPP ```, lalu tekan tombol mulai di bagian ``` Apache ``` & ``` MySQL ```. Hal ini bertujuan untuk dapat mendukung website secara optimal.<br>
+1. Buka ``` XAMPP ```, lalu tekan tombol mulai di bagian ``` Apache ``` & ``` MySQL ```. Hal ini bertujuan untuk dapat mendukung website secara optimal.
+
 2. Akses peramban terlebih dahulu untuk membuka panel admin basis data, silakan salin tautan berikut: ``` localhost/phpmyadmin/ ```.
-3. Buat basis data bernama ``` ci4_semnas ``` di lokal.<br>
-4. Buka basis data ``` ci4_semnas ``` dan Impor ``` semnas_db.sql ``` di direktori ``` SEMNAS/database ```.<br>
+   
+3. Buat basis data bernama ``` ci4_semnas ``` di lokal.
+
+4. Buka basis data ``` ci4_semnas ``` dan Impor ``` semnas_db.sql ``` di direktori ``` SEMNAS/database ```.
+
 5. Kemudian buka berkas XAMP: ``` php.ini ``` -> hapus ``` titik koma (;) ``` di depan ``` extension=intl ``` -> simpan.
 
 <br>
@@ -76,7 +80,7 @@ Website ini dibuat untuk memenuhi ``` tugas mata kuliah Pemrograman Framework ``
    php spark serve
    ```
    </ul>
-4. Buka peramban Anda (Tab baru), lalu ketik -> ``` localhost:8080 ``` atau sesuaikan dengan yang ada di GitBash Anda.<br>
+4. Buka peramban anda (Tab baru), lalu ketik -> ``` localhost:8080 ``` atau sesuaikan dengan yang ada di GitBash anda.<br>
 5. Silakan masuk dan akses fitur-fiturnya, selamat menikmati [Selesai].
 
 <br>
