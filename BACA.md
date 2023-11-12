@@ -80,7 +80,7 @@ Website ini dibuat untuk memenuhi ``` tugas mata kuliah Pemrograman Framework ``
    php spark serve
    ```
    </ul>
-4. Buka peramban anda (Tab baru), lalu ketik -> ``` localhost:8080 ``` atau sesuaikan dengan yang ada di GitBash anda.<br>
+4. Buka ``` peramban ``` anda (Tab baru), lalu ketik -> ``` localhost:8080 ``` atau sesuaikan dengan yang ada di ``` GitBash ``` anda.<br>
 5. Silakan masuk dan akses fitur-fiturnya, selamat menikmati [Selesai].
 
 <br>
