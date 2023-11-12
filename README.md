@@ -76,7 +76,7 @@ This website was created to fulfill the ``` assignment of the Framework Programm
    php spark serve
    ````
    </ul>
-4. Open your browser (New tab), then type -> ``` localhost:8080 ``` or customize the one on your GitBash.<br>
+4. Open your ``` browser ``` (New tab), then type -> ``` localhost:8080 ``` or customize the one on your ``` GitBash ```.<br>
 5. Please login and access the features, enjoy [Done].
 
 <br>
