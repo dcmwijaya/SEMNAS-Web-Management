@@ -69,7 +69,7 @@ Website ini dibuat untuk memenuhi ``` tugas mata kuliah Pemrograman Framework ``
 <br>
 
 ## Memulai
-1. Unduh repositori ini.<br>
+1. Unduh dan ekstrak repositori ini.<br>
 2. Ubah nama direktori ``` SEMNAS-Web-Management ``` menjadi ``` SEMNAS ```.<br>
 3. Buka direktori ``` SEMNAS ```, lalu buka ``` GitBash ``` di dalam direktori tersebut.
    <ul>
