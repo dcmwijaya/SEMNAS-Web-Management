@@ -17,7 +17,7 @@ Website ini dibuat untuk memenuhi ``` tugas mata kuliah Pemrograman Framework ``
 | --- | --- |
 | Fitur | Masuk, Buat, Baca, Perbarui, Hapus, Validasi, Cetak, & Ekspor |
 | Kerangka Kerja | Bootstrap 4, CodeIgniter 4 |
-| Peralatan | Visual Studio Code, XAMPP (PHP Versi 7.4) |
+| Peralatan | Visual Studio Code, XAMPP (PHP Versi 7.4), Composer, Git |
 
 <br>
 
