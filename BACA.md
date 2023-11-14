@@ -157,6 +157,11 @@ Website ini dibuat untuk memenuhi ``` tugas mata kuliah Pemrograman Framework ``
 
 <br>
 
+## Pengingat
+Masih terdapat bug pada fitur pencarian data. Data yang tidak ditemukan seharusnya memiliki keterangan dalam tabel, tetapi saat ini hal tersebut belum tercapai.
+
+<br>
+
 ## Penafian
 Aplikasi ini dibuat dengan menyertakan sumber-sumber dari pihak ketiga. Pihak ketiga di sini adalah penyedia layanan, yang layanannya berupa pustaka, kerangka kerja, dan lain-lain. Saya ucapkan terima kasih banyak atas layanannya. Telah terbukti sangat membantu dan dapat diimplementasikan.
 
