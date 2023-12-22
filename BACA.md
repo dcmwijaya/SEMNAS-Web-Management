@@ -7,7 +7,7 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-blue.svg?style=flat&logo=mysql&logoColor=white)
 
 # SEMNAS-Web-Management
-<strong>Tugas Akhir Mata Kuliah Framework: Studi Kasus SEMNAS</strong><br>
+<strong>Tugas Pemrograman Framework: Studi Kasus SEMNAS</strong><br>
 Website ini dibuat untuk memenuhi ``` tugas mata kuliah Pemrograman Framework ```. Data-data yang ada di dalamnya tidak benar adanya / ``` fiktif ```.
 
 <br>
