@@ -7,7 +7,7 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-blue.svg?style=flat&logo=mysql&logoColor=white)
 
 # SEMNAS-Web-Management
-<strong>Final Project of Framework Course: SEMNAS Case Study</strong><br>
+<strong>Framework Assignment: SEMNAS Case Study</strong><br>
 This website was created to fulfill the ``` assignment of the Framework Programming course ```. The data in it is not really there / ``` fictitious ```.
 
 <br>
