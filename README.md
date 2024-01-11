@@ -12,7 +12,7 @@ This website was created to fulfill the ``` assignment of the Framework Programm
 
 <br>
 
-## Features / Framework / Tools
+## Project Requirements
 | Part | Description |
 | --- | --- |
 | Features | Login, Create, Read, Update, Delete, Validation, Print, & Export |
