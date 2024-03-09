@@ -10,7 +10,7 @@
 <strong>Tugas Pemrograman Framework: Studi Kasus SEMNAS</strong><br>
 Website ini dibuat untuk memenuhi ``` tugas mata kuliah Pemrograman Framework ```. Data-data yang ada di dalamnya tidak benar adanya / ``` fiktif ```.
 
-<br>
+<br><br>
 
 ## Kebutuhan Proyek
 | Bagian | Deskripsi |
@@ -19,34 +19,49 @@ Website ini dibuat untuk memenuhi ``` tugas mata kuliah Pemrograman Framework ``
 | Kerangka Kerja | Bootstrap 4, CodeIgniter 4 |
 | Peralatan | Visual Studio Code, XAMPP (PHP Versi 7.4), Composer, Git |
 
-<br>
+<br><br>
 
 ## Unduh & Instal
-1. XAMPP dengan PHP versi 7.4 :<br>
+
+   <table><tr><td width="810">
    
-   ```bash
+   ```
    https://sourceforge.net/projects/xampp/files/XAMPP%20Windows/7.4.30/xampp-windows-x64-7.4.30-1-VC15-installer.exe/download
    ```
+
+   </td></tr></table><br>
    
-2. Visual Studio Code :
+2. Visual Studio Code
+
+   <table><tr><td width="810">
    
-   ```bash
+   ```
    https://code.visualstudio.com/docs/?dv=win
    ```
-   
-3. Composer :
 
-   ```bash
+   </td></tr></table><br>
+   
+3. Composer
+
+   <table><tr><td width="810">
+
+   ```
    https://getcomposer.org/
    ```
-   
-4. Git :
 
-   ```bash
+   </td></tr></table><br>
+   
+4. Git
+
+   <table><tr><td width="810">
+
+   ```
    http://git-scm.com/
    ```
 
-<br>
+   </td></tr></table>
+
+<br><br>
 
 ## Basis data
 1. Buka ``` XAMPP ```, lalu tekan tombol mulai di bagian ``` Apache ``` & ``` MySQL ```. Hal ini bertujuan untuk dapat mendukung website secara optimal.
@@ -59,14 +74,14 @@ Website ini dibuat untuk memenuhi ``` tugas mata kuliah Pemrograman Framework ``
 
 5. Kemudian buka berkas XAMP: ``` php.ini ``` -> hapus ``` titik koma (;) ``` di depan ``` extension=intl ``` -> simpan.
 
-<br>
+<br><br>
 
 ## Akun Bawaan
 | Peran | Surel | Nama Pengguna | Kata Sandi |
 | --- | --- | --- | --- |
 | Super Admin | pentalogy.wasser@gmail.com | Super Admin | semnas2021 |
 
-<br>
+<br><br>
 
 ## Memulai
 1. Unduh dan ekstrak repositori ini.<br>
@@ -74,16 +89,19 @@ Website ini dibuat untuk memenuhi ``` tugas mata kuliah Pemrograman Framework ``
 3. Buka direktori ``` SEMNAS ```, lalu buka ``` GitBash ``` di dalam direktori tersebut.
    <ul>
       <li>Pertama, periksa apakah ada masalah atau tidak, jika masih ada kesalahan, sesuaikan saja dengan situasinya.</li>
-      <li>Kedua, langkah ini wajib dilakukan, jadi silakan salin perintah berikut ini:</li><br>
-   
-   ```bash 
+      <li>Kedua, langkah ini wajib dilakukan, jadi silakan salin perintah berikut ini:<br><br></li>
+      
+   <table><tr><td width="780">  
+      
+   ````bash
    php spark serve
-   ```
-   </ul>
+   ````
+
+   </td></tr></table></ul>
 4. Buka ``` peramban ``` anda (Tab baru), lalu ketik -> ``` localhost:8080 ``` atau sesuaikan dengan yang ada di ``` GitBash ``` anda.<br>
 5. Silakan masuk dan akses fitur-fiturnya, selamat menikmati [Selesai].
 
-<br>
+<br><br>
 
 ## Sorotan
 <table>
@@ -155,17 +173,22 @@ Website ini dibuat untuk memenuhi ``` tugas mata kuliah Pemrograman Framework ``
 </tr>
 </table>
 
-<br>
+<br><br>
 
 ## Pengingat
 Masih terdapat bug pada fitur pencarian data. Data yang tidak ditemukan seharusnya memiliki keterangan dalam tabel, tetapi saat ini hal tersebut belum tercapai.
 
-<br>
+<br><br>
+
+## Apresiasi
+Jika anda merasa karya ini bermanfaat, dukunglah karya ini sebagai bentuk apresiasi kepada penulis dengan cara mengeklik tombol ``` ⭐Bintang ```.
+
+<br><br>
 
 ## Penafian
 Aplikasi ini dibuat dengan menyertakan sumber-sumber dari pihak ketiga. Pihak ketiga di sini adalah penyedia layanan, yang layanannya berupa pustaka, kerangka kerja, dan lain-lain. Saya ucapkan terima kasih banyak atas layanannya. Telah terbukti sangat membantu dan dapat diimplementasikan.
 
-<br>
+<br><br>
 
 ## LISENSI 
 LISENSI MIT - Hak Cipta © 2021 - Devan Cakra Mudra Wijaya
