@@ -22,29 +22,45 @@ This website was created to fulfill the ``` assignment of the Framework Programm
 <br>
 
 ## Download & Install
-1. XAMPP with PHP version 7.4 :
+1. XAMPP with PHP version 7.4
+
+   <table><tr><td width="810">
    
-   ```bash
+   ```
    https://sourceforge.net/projects/xampp/files/XAMPP%20Windows/7.4.30/xampp-windows-x64-7.4.30-1-VC15-installer.exe/download
    ```
+
+   </td></tr></table>
    
-2. Visual Studio Code :
+2. Visual Studio Code
+
+   <table><tr><td width="810">
    
-   ```bash
+   ```
    https://code.visualstudio.com/docs/?dv=win
    ```
-   
-3. Composer :
 
-   ```bash
+   </td></tr></table>
+   
+3. Composer
+
+   <table><tr><td width="810">
+
+   ```
    https://getcomposer.org/
    ```
-   
-4. Git :
 
-   ```bash
+   </td></tr></table>
+   
+4. Git
+
+   <table><tr><td width="810">
+
+   ```
    http://git-scm.com/
    ```
+
+   </td></tr></table>
 
 <br>
 
@@ -75,11 +91,14 @@ This website was created to fulfill the ``` assignment of the Framework Programm
    <ul>
        <li>First, check whether there is a problem or not, if there is still an error, just adjust it according to the situation.</li>
        <li>Secondly, this step is mandatory, so please copy the following command:<br><br></li>
-       
+   
+   <table><tr><td width="780">  
+      
    ````bash
    php spark serve
    ````
-   </ul>
+
+   </td></tr></table></ul>
 4. Open your ``` browser ``` (New tab), then type -> ``` localhost:8080 ``` or customize the one on your ``` GitBash ```.<br>
 5. Please login and access the features, enjoy [Done].
 
