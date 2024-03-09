@@ -10,7 +10,7 @@
 <strong>Framework Programming Assignment: SEMNAS Case Study</strong><br>
 This website was created to fulfill the ``` assignment of the Framework Programming course ```. The data in it is not really there / ``` fictitious ```.
 
-<br>
+<br><br>
 
 ## Project Requirements
 | Part | Description |
@@ -19,7 +19,7 @@ This website was created to fulfill the ``` assignment of the Framework Programm
 | Framework | Bootstrap 4, CodeIgniter 4 |
 | Tools | Visual Studio Code, XAMPP (PHP Version 7.4), Composer, Git |
 
-<br>
+<br><br>
 
 ## Download & Install
 1. XAMPP with PHP version 7.4
@@ -30,7 +30,7 @@ This website was created to fulfill the ``` assignment of the Framework Programm
    https://sourceforge.net/projects/xampp/files/XAMPP%20Windows/7.4.30/xampp-windows-x64-7.4.30-1-VC15-installer.exe/download
    ```
 
-   </td></tr></table>
+   </td></tr></table><br>
    
 2. Visual Studio Code
 
@@ -40,7 +40,7 @@ This website was created to fulfill the ``` assignment of the Framework Programm
    https://code.visualstudio.com/docs/?dv=win
    ```
 
-   </td></tr></table>
+   </td></tr></table><br>
    
 3. Composer
 
@@ -50,7 +50,7 @@ This website was created to fulfill the ``` assignment of the Framework Programm
    https://getcomposer.org/
    ```
 
-   </td></tr></table>
+   </td></tr></table><br>
    
 4. Git
 
@@ -62,7 +62,7 @@ This website was created to fulfill the ``` assignment of the Framework Programm
 
    </td></tr></table>
 
-<br>
+<br><br>
 
 ## Database
 1. Open ``` XAMPP ```, then start the ``` Apache ``` & ``` MySQL ``` section. This aims to be able to support the website optimally.
@@ -75,14 +75,14 @@ This website was created to fulfill the ``` assignment of the Framework Programm
    
 5. Then open the XAMP file: ``` php.ini ``` -> remove ``` semicolon (;) ``` in front of ``` extension=intl ``` -> save.
 
-<br>
+<br><br>
 
 ## Default Account
 | Role | Email | Username | Password |
 | --- | --- | --- | --- |
 | Super Admin | pentalogy.wasser@gmail.com | Super Admin | semnas2021 |
 
-<br>
+<br><br>
 
 ## Get Started
 1. Download and extract this repository.<br>
@@ -102,7 +102,7 @@ This website was created to fulfill the ``` assignment of the Framework Programm
 4. Open your ``` browser ``` (New tab), then type -> ``` localhost:8080 ``` or customize the one on your ``` GitBash ```.<br>
 5. Please login and access the features, enjoy [Done].
 
-<br>
+<br><br>
 
 ## Highlights
 <table>
@@ -174,22 +174,22 @@ This website was created to fulfill the ``` assignment of the Framework Programm
 </tr>
 </table>
 
-<br>
+<br><br>
 
 ## Reminder
 There is still a bug in the data search feature. Data that is not found should have a caption in the table, but currently this has not been achieved.
 
-<br>
+<br><br>
 
 ## Appreciation
 If you find this work useful, please support it as a token of appreciation to the author by clicking the ``` ⭐Star ``` button.
 
-<br>
+<br><br>
 
 ## Disclaimer
 This application has been created by including third-party sources. Third parties here are service providers, whose services are in the form of libraries, frameworks, and others. I thank you very much for the service. It has proven to be very helpful and implementable.
 
-<br>
+<br><br>
 
 ## LICENSE
 MIT License - Copyright © 2021 - Devan Cakra Mudra Wijaya
