@@ -22,8 +22,9 @@ Website ini dibuat untuk memenuhi ``` tugas mata kuliah Pemrograman Framework ``
 <br><br>
 
 ## Unduh & Instal
+1. XAMPP with PHP version 7.4
 
-1. <table><tr><td width="810">
+   <table><tr><td width="810">
    
    ```
    https://sourceforge.net/projects/xampp/files/XAMPP%20Windows/7.4.30/xampp-windows-x64-7.4.30-1-VC15-installer.exe/download
