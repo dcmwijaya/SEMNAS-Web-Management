@@ -27,7 +27,7 @@ Website ini dibuat untuk memenuhi ``` tugas mata kuliah Pemrograman Framework ``
    <table><tr><td width="810">
    
    ```
-   https://sourceforge.net/projects/xampp/files/XAMPP%20Windows/7.4.30/xampp-windows-x64-7.4.30-1-VC15-installer.exe/download
+   https://bit.ly/XAMPP_PHP7_Installer
    ```
 
    </td></tr></table><br>
@@ -37,7 +37,7 @@ Website ini dibuat untuk memenuhi ``` tugas mata kuliah Pemrograman Framework ``
    <table><tr><td width="810">
    
    ```
-   https://code.visualstudio.com/docs/?dv=win
+   https://bit.ly/VScode_Installer
    ```
 
    </td></tr></table><br>
@@ -47,7 +47,7 @@ Website ini dibuat untuk memenuhi ``` tugas mata kuliah Pemrograman Framework ``
    <table><tr><td width="810">
 
    ```
-   https://getcomposer.org/
+   https://bit.ly/Composer_Installer
    ```
 
    </td></tr></table><br>
@@ -57,7 +57,7 @@ Website ini dibuat untuk memenuhi ``` tugas mata kuliah Pemrograman Framework ``
    <table><tr><td width="810">
 
    ```
-   http://git-scm.com/
+   https://bit.ly/GIT_Installer
    ```
 
    </td></tr></table>
