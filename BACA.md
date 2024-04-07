@@ -22,7 +22,7 @@ Website ini dibuat untuk memenuhi ``` tugas mata kuliah Pemrograman Framework ``
 <br><br>
 
 ## Unduh & Instal
-1. XAMPP with PHP version 7.4
+1. XAMPP dengan PHP versi 7.4
 
    <table><tr><td width="810">
    
