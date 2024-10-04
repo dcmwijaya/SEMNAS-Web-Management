@@ -1,10 +1,8 @@
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?style=flat)](https://github.com/ellerbrock/open-source-badges/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
-![GitHub last commit](https://img.shields.io/github/last-commit/devancakra/SEMNAS-Web-Management)
-![CI4](https://img.shields.io/badge/-Codeigniter4-darkblue?style=flat&logo=Codeigniter)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-purple.svg?&logo=bootstrap&logoColor=white)
-![PHP](https://img.shields.io/badge/-PHP-grey.svg?&logo=PHP&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-blue.svg?style=flat&logo=mysql&logoColor=white)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg?logo=github&color=%23F7DF1E)](https://opensource.org/licenses/MIT)
+![GitHub last commit](https://img.shields.io/github/last-commit/devancakra/SEMNAS-Web-Management?logo=Codeforces&logoColor=white&color=%23F7DF1E)
+![Project](https://img.shields.io/badge/Project-Website-light.svg?style=flat&logo=googlechrome&logoColor=white&color=%23F7DF1E)
+![Type](https://img.shields.io/badge/Type-Campus%20Assignment-light.svg?style=flat&logo=gitbook&logoColor=white&color=%23F7DF1E)
 
 # SEMNAS-Web-Management
 <strong>Framework Programming Assignment: SEMNAS Case Study</strong><br>
@@ -110,7 +108,7 @@ This website was created to fulfill the ``` assignment of the Framework Programm
 <th width="840">Home</th>
 </tr>
 <tr>
-<td><img src="https://user-images.githubusercontent.com/54527592/109822472-8fbef980-7c69-11eb-9fee-c3d6f7259862.png" alt="home"></td>
+<td><img src="documentation/Home.jpg" alt="home"></td>
 </tr>
 </table>
 <table>
@@ -120,9 +118,9 @@ This website was created to fulfill the ``` assignment of the Framework Programm
 <th width="280">Participants</th>
 </tr>
 <tr>
-<td><img src="https://user-images.githubusercontent.com/54527592/109822592-acf3c800-7c69-11eb-8193-5dc9c91d9b76.png" alt="about"></td>
-<td><img src="https://user-images.githubusercontent.com/54527592/109823043-24295c00-7c6a-11eb-85ec-638a93e6b4fe.png" alt="registration"></td>
-<td><img src="https://user-images.githubusercontent.com/54527592/109822749-d7458580-7c69-11eb-9332-efdeb85d009f.png" alt="participants"></td>
+<td><img src="documentation/About.jpg" alt="about"></td>
+<td><img src="documentation/Registration.jpg" alt="registration"></td>
+<td><img src="documentation/Participants.jpg" alt="participants"></td>
 </tr>
 </table>
 <table>
@@ -132,9 +130,9 @@ This website was created to fulfill the ``` assignment of the Framework Programm
 <th width="280">Print</th>
 </tr>
 <tr>
-<td><img src="https://user-images.githubusercontent.com/54527592/109823193-49b66580-7c6a-11eb-8e2c-c96bd31de17b.png" alt="login"></td>
-<td><img src="https://user-images.githubusercontent.com/54527592/109821080-31454b80-7c68-11eb-9cb7-5c66e7420b0d.png" alt="manage-data"></td>
-<td><img src="https://user-images.githubusercontent.com/54527592/109821231-59cd4580-7c68-11eb-986c-a3052f8e56c9.png" alt="print"></td>
+<td><img src="documentation/Login.jpg" alt="login"></td>
+<td><img src="documentation/Manage Data.jpg" alt="manage-data"></td>
+<td><img src="documentation/Print.jpg" alt="print"></td>
 </tr>
 </table>
 <table>
@@ -144,9 +142,9 @@ This website was created to fulfill the ``` assignment of the Framework Programm
 <th width="280">Edit</th>
 </tr>
 <tr>
-<td><img src="https://user-images.githubusercontent.com/54527592/109821446-926d1f00-7c68-11eb-86cd-fdf8bcd15009.png" alt="export"></td>
-<td><img src="https://user-images.githubusercontent.com/54527592/109821546-a9ac0c80-7c68-11eb-8ed2-acfc2ff39b75.png" alt="add"></td>
-<td><img src="https://user-images.githubusercontent.com/54527592/109821667-cb0cf880-7c68-11eb-84c1-b78656d5d403.png" alt="edit"></td>
+<td><img src="documentation/Export.jpg" alt="export"></td>
+<td><img src="documentation/Add.jpg" alt="add"></td>
+<td><img src="documentation/Edit.jpg" alt="edit"></td>
 </tr>
 </table>
 <table>
@@ -156,9 +154,9 @@ This website was created to fulfill the ``` assignment of the Framework Programm
 <th width="280">Pagination</th>
 </tr>
 <tr>
-<td><img src="https://user-images.githubusercontent.com/54527592/109916076-8ffcda80-7ce5-11eb-9341-3949845899e4.png" alt="delete"></td>
-<td><img src="https://user-images.githubusercontent.com/54527592/109821995-1e7f4680-7c69-11eb-9580-ceba86b7d798.png" alt="search"></td>
-<td><img src="https://user-images.githubusercontent.com/54527592/109822130-42428c80-7c69-11eb-9fae-c2dfda284944.png" alt="pagination"></td>
+<td><img src="documentation/Delete.jpg" alt="delete"></td>
+<td><img src="documentation/Search.jpg" alt="search"></td>
+<td><img src="documentation/Pagination.jpg" alt="pagination"></td>
 </tr>
 </table>
 <table>
@@ -168,9 +166,9 @@ This website was created to fulfill the ``` assignment of the Framework Programm
 <th width="280">Delete Validation</th>
 </tr>
 <tr>
-<td><img src="https://user-images.githubusercontent.com/54527592/109916408-2a5d1e00-7ce6-11eb-81cb-40be595c1404.png" alt="add-validation"></td>
-<td><img src="https://user-images.githubusercontent.com/54527592/109916251-dc481a80-7ce5-11eb-8951-398f5d3ed958.png" alt="edit-validation"></td>
-<td><img src="https://user-images.githubusercontent.com/54527592/109916161-b458b700-7ce5-11eb-8d13-a890ad4b0e55.png" alt="delete-validation"></td>
+<td><img src="documentation/Add Validation.jpg" alt="add-validation"></td>
+<td><img src="documentation/Edit Validation.jpg" alt="edit-validation"></td>
+<td><img src="documentation/Delete Validation.jpg" alt="delete-validation"></td>
 </tr>
 </table>
 
@@ -187,12 +185,12 @@ If this work is useful to you, then support this work as a form of appreciation 
 <br><br>
 
 ## Disclaimer
-This application has been created by including third-party sources. Third parties here are service providers, whose services are in the form of libraries, frameworks, and others. I thank you very much for the service. It has proven to be very helpful and implementable.
+This application is my own work and is not the result of plagiarism from other people's research or work, except those related to third party services which include: libraries, frameworks, and so on.
 
 <br><br>
 
 ## LICENSE
-MIT License - Copyright © 2021 - Devan Cakra Mudra Wijaya
+MIT License - Copyright © 2021 - Devan C. M. Wijaya
 
 Permission is hereby granted without charge to any person obtaining a copy of this software and the software-related documentation files to deal in them without restriction, including without limitation the right to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons receiving the Software to be furnished therewith on the following terms:
 
