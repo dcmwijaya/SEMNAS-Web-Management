@@ -63,11 +63,11 @@ This website was created to fulfill the ``` assignment of the Framework Programm
 <br><br>
 
 ## Database
-1. Open ``` XAMPP ```, then start the ``` Apache ``` & ``` MySQL ``` section. This aims to be able to support the website optimally.
+1. Open ``` XAMPP ```, then start the ``` Apache ``` & ``` MySQL ``` section to run a web server and a database server locally.
 
 2. Access the browser first in order to open the database admin panel, please copy the following link: ``` localhost/phpmyadmin/ ```.
    
-3. Create a database called ``` ci4_semnas ``` on local.
+3. Create a database called ``` ci4_semnas ```.
 
 4. Open the ``` ci4_semnas ``` database and Import the ``` semnas_db.sql ``` in the ``` SEMNAS/database ``` directory.
    
