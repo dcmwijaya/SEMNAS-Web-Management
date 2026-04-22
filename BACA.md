@@ -63,11 +63,11 @@ Website ini dibuat untuk memenuhi ``` tugas mata kuliah Pemrograman Framework ``
 <br><br>
 
 ## Basis data
-1. Buka ``` XAMPP ```, lalu tekan tombol mulai di bagian ``` Apache ``` & ``` MySQL ```. Hal ini bertujuan untuk dapat mendukung website secara optimal.
+1. Buka ``` XAMPP ```, lalu tekan tombol mulai di bagian ``` Apache ``` & ``` MySQL ``` untuk menjalankan server web dan server database secara lokal.
 
 2. Akses peramban terlebih dahulu untuk membuka panel admin basis data, silakan salin tautan berikut: ``` localhost/phpmyadmin/ ```.
    
-3. Buat basis data bernama ``` ci4_semnas ``` di lokal.
+3. Buat basis data bernama ``` ci4_semnas ```.
 
 4. Buka basis data ``` ci4_semnas ``` dan Impor ``` semnas_db.sql ``` di direktori ``` SEMNAS/database ```.
 
